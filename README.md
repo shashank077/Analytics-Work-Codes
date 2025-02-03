@@ -2,8 +2,7 @@
 # Dashboard
 ![https://github.com/shashank077/Analytics-Work-Codes/blob/main/Power_BI/Screenshot%202025-02-03%20115858.png](https://github.com/shashank077/Analytics-Work-Codes/blob/main/Power_BI/Screenshot%202025-02-03%20115858.png)
 # Description
-
-# PROBLEM STATEMENT 
+PROBLEM STATEMENT 
 The field of data science and analytics has seen rapid growth over the past decade, with 
 professionals transitioning into these roles from diverse educational and career backgrounds.This 
 survey aimed to analyze responses from 630 participants to uncover key insights regarding their 
