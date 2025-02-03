@@ -19,4 +19,20 @@ careers?
 # Complete Report here
 ![https://github.com/shashank077/Analytics-Work-Codes/blob/main/Power_BI/Report_powerbi.pdf](https://github.com/shashank077/Analytics-Work-Codes/blob/main/Power_BI/Report_powerbi.pdf)
 
+# 2. Sentiment Analysis
 
+Automotive Sentiment Analysis 
+
+![https://github.com/shashank077/Analytics-Work-Codes/blob/main/Sentiment%20Analysis%20on%20Car%20Reviews/download.png](https://github.com/shashank077/Analytics-Work-Codes/blob/main/Sentiment%20Analysis%20on%20Car%20Reviews/download.png)
+
+This project performs sentiment analysis on automotive-related text data using Natural Language Processing (NLP) and Machine Learning (ML). It helps businesses and researchers analyze customer feedback, monitor brand reputation, and track industry trends.
+
+🚗 Key Features
+
+Data Preprocessing: Cleans, tokenizes, and vectorizes text for analysis.
+
+Sentiment Classification: Implements ML models to detect positive, negative, or neutral sentiments.
+
+Trend Visualization: Generates sentiment trends, word clouds, and interactive charts.
+
+Model Evaluation: Uses precision, recall, F1-score, and accuracy metrics.
