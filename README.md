@@ -22,7 +22,7 @@ careers?
 # 2. Sentiment Analysis
 
 Automotive Sentiment Analysis 
-
+[Source Code](https://github.com/shashank077/Analytics-Work-Codes/blob/main/Sentiment%20Analysis%20on%20Car%20Reviews/Automotive%20Sentiment%20Analysis.ipynb)
 ![https://github.com/shashank077/Analytics-Work-Codes/blob/main/Sentiment%20Analysis%20on%20Car%20Reviews/download.png](https://github.com/shashank077/Analytics-Work-Codes/blob/main/Sentiment%20Analysis%20on%20Car%20Reviews/download.png)
 
 This project performs sentiment analysis on automotive-related text data using Natural Language Processing (NLP) and Machine Learning (ML). It helps businesses and researchers analyze customer feedback, monitor brand reputation, and track industry trends.
